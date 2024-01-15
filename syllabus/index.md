@@ -231,7 +231,7 @@ I expect some effort and commitment from students auditing the course. Therefore
 Student Accessibility Services
 -----------------
 
-In accordance with the provisions of Section 504 of the Rehabilitation Act of 1973, and the Americans with Disabilities Act of 1990, York College and its faculty are obliged to make reasonable classroom and physical accommodations for students with disabilities. If you are a student with a disability in need of classroom accommodations and have not already registered with Student Accessibility Services, please see the (SAS webpage)[https://www.ycp.edu/about-us/offices-and-departments/student-success/student-accessibility-services/] for more information and to complete the online form to apply for accommodations. You may also contact (sas@ycp.edu)[sas@ycp.edu] to establish the accommodations for which you are eligible.
+In accordance with the provisions of Section 504 of the Rehabilitation Act of 1973, and the Americans with Disabilities Act of 1990, York College and its faculty are obliged to make reasonable classroom and physical accommodations for students with disabilities. If you are a student with a disability in need of classroom accommodations and have not already registered with Student Accessibility Services, please see the [SAS webpage](https://www.ycp.edu/about-us/offices-and-departments/student-success/student-accessibility-services/) for more information and to complete the online form to apply for accommodations. You may also contact [sas@ycp.edu](sas@ycp.edu) to establish the accommodations for which you are eligible.
 
 Advice
 -----------------
