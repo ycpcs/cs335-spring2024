@@ -11,7 +11,7 @@ CS 335 - CYBERSECURITY
 
 Class times:
 
-- Section 801, T/Th 6:00PM - 7:15PM in KEC 123
+- Section 101, T/Th 6:00PM - 7:15PM in KEC 123
 
 Staff:
 
