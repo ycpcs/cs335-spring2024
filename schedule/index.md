@@ -18,41 +18,41 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 > 03 | Feb 06 | [Shellshock Attack](../slides/03_Shellshock.pdf) | CIS: Ch 3 | [Shellshock Attack Lab](../labs/shellshock.html)
 > 03 | Feb 08 | | |
 > | | | |
-> 04 | Feb 13 | | |
+> 04 | Feb 13 | Buffer Overflow | | 
 > 04 | Feb 15 | | |
 > | | | |
-> 05 | Feb 20 | | |
-> 05 | Feb 22 | | |
+> 05 | Feb 20 | Network Basics | | 
+> 05 | Feb 22 | ARP | | 
 > | | | |
-> 06 | Feb 27 | | |
+> 06 | Feb 27 | IP | | 
 > 06 | Feb 29 | _Winter Vacation_ | |
 > | | | |
-> 07 | Mar 05 | | |
-> 07 | Mar 07 | | |
+> 07 | Mar 05 | TCP | | 
+> 07 | Mar 07 | __Quiz 1__ | |
 > | | | |
-> 08 | Mar 12 | | |
+> 08 | Mar 12 | DNS | | 
 > 08 | Mar 14 | | |
 > | | | |
-> 09 | Mar 19 | | |
-> 09 | Mar 21 | | |
+> 09 | Mar 19 | Web Basics | |
+> 09 | Mar 21 | CSRF | | 
 > | | | |
-> 10 | Mar 26 | | |
-> 10 | Mar 28 | | |
+> 10 | Mar 26 | XSS | | 
+> 10 | Mar 28 | | | 
 > | | | |
-> 11 | Apr 02 | | |
+> 11 | Apr 02 | SQL Injection | | 
 > 11 | Apr 04 | | |
 > | | | |
-> 12 | Apr 09 | | |
-> 12 | Apr 11 | | |
+> 12 | Apr 09 | Clickjacking | |
+> 12 | Apr 11 | | | 
 > | | | |
-> 13 | Apr 16 | | |
-> 13 | Apr 18 | | |
+> 13 | Apr 16 | Password Cracking | | 
+> 13 | Apr 18 | Open Source Intelligence | |
 > | | | |
-> 14 | Apr 23 | | |
-> 14 | Apr 25 | | |
+> 14 | Apr 23 | Firewall | |
+> 14 | Apr 25 | VPN | |
 > | | | |
-> 15 | Apr 30 | | |
-> 15 | May 02 | | |
+> 15 | Apr 30 | __Quiz 2__| |
+> 15 | May 02 | Game | |
 > | | | |
 > 16 | May 07 | *__Student Final Project Presentations__* | 
 > 16 | May 09 | *__Student Final Project Presentations__* | 
