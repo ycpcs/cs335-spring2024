@@ -8,7 +8,7 @@ This page links to lab assignments.
 
 > Lab   | File  | Due
 > ----- | ----- | ---- 
-> Lab Setup | [Setup](setup.html) | n/a
+> Lab Setup | [VirtualBox 6.x](setup.html) or [VirtualBox 7.0](setupv7.html) | n/a
 > Shellshock Attack Lab | [Description and Tasks](shellshock.html) | 
 
 
