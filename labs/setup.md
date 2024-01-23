@@ -4,7 +4,7 @@ course_number: CS335
 title: Lab Setup (Virtual Box 6.x)
 ---
 
-Install SEED VM on VirtualBox
+Install SEED VM on VirtualBox 6.x
 -----------------------------------
 
 ### Account Information of this VM

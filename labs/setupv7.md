@@ -1,10 +1,10 @@
 ---
 layout: default
 course_number: CS335
-title: Lab Setup (Virtual Box 7.x)
+title: Lab Setup (Virtual Box 7.0)
 ---
 
-Install SEED VM on VirtualBox
+Install SEED VM on VirtualBox 7.0
 -----------------------------------
 
 ## Account Information of this VM
