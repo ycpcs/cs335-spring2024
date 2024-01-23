@@ -1,18 +1,17 @@
 ---
 layout: default
 course_number: CS335
-title: Lab Setup (Virtual Box 7.0)
+title: Lab Setup
 ---
 
-Install SEED VM on VirtualBox 7.0
------------------------------------
+# Install SEED VM on VirtualBox 7.0
 
-## Account Information of this VM
+### Account Information of this VM
 
 - User name: `seed`
 - Password: `dees`
 
-## Preparation
+### Preparation
 
 Before installing the SEED VM, please do the following:
 
@@ -26,20 +25,20 @@ and you will get a `.vdi` file. This file contains the pre-built SEED
 Ubuntu 20.04 image. This document shows how to build a virtual machine
 using this image.
 
-## Step 1: Create a New VM in VirtualBox
+### Step 1: Create a New VM in VirtualBox
 
 We need to use `New` to create a new virtual machine.
 
 ![New VM](./images/v7/vm-new.png)
 
-## Step 2: Provide a Name and Select the OS Type and Version
+### Step 2: Provide a Name and Select the OS Type and Version
 
 Our prebuilt Ubuntu 20.04 VM is 64-bit, so pick Ubuntu (64-bit).
 
 ![name and OS type](./images/v7/vm-name-type.png)
 
 
-## Step 3: Set the Memory Size
+### Step 3: Set the Memory Size
 
 We need to allocate dedicated memory for the VM.
 1024 MB should be sufficient, but we recommend 2GB. If your computer has more
@@ -48,7 +47,7 @@ the better the performance you will get.
 
 ![memory](./images/v7/vm-memory.png)
 
-## Step 4: Select the Pre-built VM File Provided by Us
+### Step 4: Select the Pre-built VM File Provided by Us
 
 Click the folder image. On the popup window, use
 the `Add` button to select the `.vdi` file downloaded
@@ -62,7 +61,7 @@ one used by an existing VM. You can either remove the other VM or
 [change the UUID](https://tecadmin.net/change-the-uuid-of-virtual-disk/)
 in the `vdi` file.
 
-## Step 5: Configure the VM
+### Step 5: Configure the VM
 
 After the previous step, your VM will be created, and you will
 see it on VirtualBox's VM panel. We need to do some further
@@ -72,7 +71,7 @@ the `Settings` option, and we will see the Settings window.
 ![finished](./images/v7/vm-setting.png)
 
 
-### Step 5.a: Enable Copy and Paste
+#### Step 5.a: Enable Copy and Paste
 
 Go to the `General` category, and select the `Advanced` tab.
 Select `Bidirectional` for both items. The first item allows users to copy
@@ -89,7 +88,7 @@ by selecting the `Devices` menu item, and you will see the
 `Shared Clipboard` submenu.
 
 
-### Step 5.b: CPUs
+#### Step 5.b: CPUs
 
 Go to the `System` category, and select the `Processor` tab.
 Assign number of CPUs to this VM if you prefer. Although may be sufficient,
@@ -98,7 +97,7 @@ if the performance seems to be an issue, increase the number.
 ![CPU cores](./images/v7/vm-setting-system.png)
 
 
-### Step 5.c: Display
+#### Step 5.c: Display
 
 Go to the `Display` category, and select the `Screen` tab. If the
 display does not seem to work properly, try to increase the amount of video memory.
@@ -114,7 +113,7 @@ may lead to the crash of the VM.
 to match the high resolution. As results, your VM will be very small on your screen.
 To make it bigger, adjust the `Scale Factor` in this setting.
 
-### Step 5.d: Network
+#### Step 5.d: Network
 
 <!-- Go to the `Network` category, and select the `Adapter 1` tab. We will
 choose the `NAT Network` adaptor. Click the `Advanced` drop-down menu to
@@ -130,7 +129,7 @@ choose the `NAT` adaptor.
 Go to the `File` menu, click `Preferences...`. You will see a popup window.
 Go to the `Network` tab, and you can add a new `Nat Network` adaptor there.-->
 
-## Appendix A: Start the VM and Take Snapshot
+### Appendix A: Start the VM and Take Snapshot
 
 We can now start the VM. You can also use the `Take` button to take a snapshot
 of your VM. This way, if something goes wrong, you can roll back the state of
@@ -138,7 +137,7 @@ your VM using the saved snapshots.
 
 ![display](./images/v7/vm-start.png)
 
-## Appendix B: Stop the VM
+### Appendix B: Stop the VM
 
 There are many ways to stop the VM. The best way is to use the `Save State`. This
 is different from shutting down the VM. It saves the current VM state, so next time
@@ -147,7 +146,7 @@ faster than booting up a VM.
 
 ![display](./images/v7/vm-stop.png)
 
-## Appendix C: Creating a Shared Folder
+### Appendix C: Creating a Shared Folder
 
 Sometimes, we need to copy files between the host machine and the VM.
 If you are using the VM from the cloud, you can see our cloud VM manual

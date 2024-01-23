@@ -1,11 +1,10 @@
 ---
 layout: default
 course_number: CS335
-title: Lab Setup (Virtual Box 6.x)
+title: Lab Setup
 ---
 
-Install SEED VM on VirtualBox 6.x
------------------------------------
+# Install SEED VM on VirtualBox 6.x
 
 ### Account Information of this VM
 
@@ -178,8 +177,6 @@ $ mkdir -p ~/Share
 $ sudo mount -t vboxsf VM_Shared ~/Share
 ```
 
-Additional lab setup information can be found on the [seed website](https://seedsecuritylabs.org/labsetup.html).
-
 **Important Note.** Please only use the shared folder to copy files
 between the VM and the host machine, and **never use it
 as your working folder**. Working from the shared folder has
@@ -191,8 +188,8 @@ the original files. Some labs and containers are very
 sensitive to those permissions.
 
 
-Troubleshooting
------------------------------------
+### Troubleshooting
+
 - The first thing you should do after creating your SEED VM is to update your packages; to do that, run the following two commands from your VM:
   - ```sudo apt update``` - this commands downloads package information from all configured sources
   - ```sudo apt upgrade``` - will upgrade all installed packages to their latest versions
@@ -200,7 +197,3 @@ Troubleshooting
   - With VirtualBox 6.0.0 you need to go to the VirtualBox Preferences » Display » Scale Factor = 200%.
 - When you clone your VM's, make sure the MAC Address Policy is set to _Generate new MAC addresses for all network adapters_.
   
-
-Labs
------------------------------------
-- Hands-on [Labs](https://seedsecuritylabs.org/Labs_20.04/) for Security Education.

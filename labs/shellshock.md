@@ -4,7 +4,7 @@ course_number: CS335
 title: Lab - Shellshock
 ---
 
-# Lab - Shellshock Attack Lab
+# Shellshock Attack Lab
 
 ### Lab Description and Tasks
 
