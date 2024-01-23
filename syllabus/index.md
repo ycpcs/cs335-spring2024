@@ -97,7 +97,7 @@ Homework and Lab Assignments
 
 Homework assignments will be based on the lab activities performed during class and may include both written and programming components. Collaboration on homework assignments is encouraged, but each student must submit their own assignment solutions that demonstrate their understanding of the material.
 
-All homework assignments will be submitted as a __single .pdf__ to Canvas. If you have handwritten solutions, PLEASE USE A SCANNER APP to generate the .pdf. You are responsible for ensuring your submission and screenshots are legible.
+All homework assignments will be submitted as a __single .pdf__ to <a href="https://cs.ycp.edu/marmoset/">https://cs.ycp.edu/marmoset/</a>. If you have handwritten solutions, PLEASE USE A SCANNER APP to generate the .pdf. You are responsible for ensuring your submission and screenshots are legible.
 
 <!-- **You MUST make a legitimate attempt to complete every homework assignment.** I reserve the right to fail any student who does not make a good faith effort to complete all of the homework assignments. -->
 
@@ -123,7 +123,7 @@ The project will be on a topic of interest _not_ covered in class. The intent of
 Posting and submission of assignments and labs
 -----------------
 
-Assignments and labs will be posted on the course web page,  [https://ycpcs.github.io/cs335-spring2024](<https://ycpcs.github.io/cs335-spring2024>). Assignments and labs will be submitted to Canvas.
+Assignments and labs will be posted on the course web page,  [https://ycpcs.github.io/cs335-spring2024](<https://ycpcs.github.io/cs335-spring2024>). Assignments and labs will be submitted using the server <a href="https://cs.ycp.edu/marmoset/">https://cs.ycp.edu/marmoset/</a>. You will receive an email containing the username and password you will use for this server.
 
 Quizzes
 -----------------

@@ -21,7 +21,7 @@ _Without clicking on any links_ and using Google, how useful to attackers are th
 
 ### Grading
 
-Post your report in Canvas by the scheduled due date in the syllabus. Your grade for this lab will be composed of:
+Post your report in [Marmoset](https://cs.ycp.edu/marmoset) by the scheduled due date in the syllabus. Your grade for this lab will be composed of:
 - 30% - Design
 - 30% - Observations
 - 40% - Explanation
