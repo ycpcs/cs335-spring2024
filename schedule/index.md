@@ -6,7 +6,7 @@ title: Course Schedule
 
 This page provides a tentative schedule for the course.
 
-CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/dp/1733003924">Computer & Internet Security: A Hands-on Approach</a>. Wenliang Du; 2 edition, 2019, ISBN-13: 978-1733003926
+CIS: <a href="https://ycp.textbookx.com/institutional/index.php?action=browse&utm_audience=f&utm_domain=ycp#/books/4137537/">Computer & Internet Security: A Hands-on Approach</a>. Wenliang Du; 2 edition, 2019, ISBN-13: 978-1733003926
 
 >  Week    | Date     | Topic        | Readings   | Assignments & Labs                                  
 > -------- | -------- | ------------ | ---------- | -------------------------------------
