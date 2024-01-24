@@ -31,7 +31,7 @@ IFS225, IFS230 and IFS320 with a grade of 2.0 or higher
 
 Required Textbook
 -----------------
-Wenliang Du, <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/dp/1733003924">Computer & Internet Security: A Hands-on Approach</a>. Wenliang Du; 2 edition, 2019, ISBN-13: 978-1733003926. 
+Wenliang Du, <a href="https://ycp.textbookx.com/institutional/index.php?action=browse&utm_audience=f&utm_domain=ycp#/books/4137537/">Computer & Internet Security: A Hands-on Approach</a>. Wenliang Du; 2 edition, 2019, ISBN-13: 978-1733003926. 
 
 Course Structure and Expectations
 ---------------------------------
