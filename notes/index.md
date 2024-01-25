@@ -3,6 +3,9 @@ layout: default
 course_number: CS335
 title: "Code Snippets"
 ---
+
+This page contains links to notes and code snippets.
+
 - [Upgrade VM](#upgrade-vm)
 - [Setup Environment](#setup-environment)
 - [File Commands and Directory Navigation](#file-commands-and-directory-navigation)
