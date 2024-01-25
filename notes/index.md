@@ -18,6 +18,8 @@ title: "Code Snippets"
 - ```sudo apt-get autoremove``` - deletes orphaned packages, or dependencies that remain installed after you have installed an application and then deleted it.
 - ```sudo apt-get clean``` - removes all packages from the cache.
 
+<a href="#">To top</a>
+
 #### Setup Environment
 - Sublime: ```sudo snap install sublime-text --classic```  
 - Visual Studio Code: ```sudo snap install --classic code```
