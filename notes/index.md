@@ -16,7 +16,7 @@ This page contains links to notes and code snippets.
 - [Process commands](#process-commands)
 - [Clone a website](#clone-a-website)
 
-#### Shellshock 
+#### Shellshock
 - Set-UID Example : <a href=".\shellshock\vul.c" target="_blank">vul.c</a>
 
 <a href="#">To top</a>
