@@ -16,9 +16,9 @@ CIS: <a href="https://ycp.textbookx.com/institutional/index.php?action=browse&ut
 > 02 | Feb 01 | [Reverse Shell](../slides/09_Reverse_Shell.pdf)| CIS: Ch 9 | |  
 > | | | |
 > 03 | Feb 06 | [Shellshock Attack](../slides/03_Shellshock.pdf) | CIS: Ch 3 | [Shellshock Attack Lab](../labs/shellshock.html)
-> 03 | Feb 08 | | |
+> 03 | Feb 08 | [Buffer Overflow Attack](../slides/04_Buffer_Overflow.pdf) | CIS: Ch 4 | 
 > | | | |
-> 04 | Feb 13 | Buffer Overflow | | 
+> 04 | Feb 13 | [Buffer Overflow Attack](../slides/04_Buffer_Overflow.pdf) | CIS: Ch 4 | [Buffer Overflow Lab](../labs/buffer_overflow.html) 
 > 04 | Feb 15 | | |
 > | | | |
 > 05 | Feb 20 | Network Basics | | 
