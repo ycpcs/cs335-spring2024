@@ -9,7 +9,7 @@ title: Lab - Buffer Overflow
 ### Lab Description and Tasks
 
 - Lab Description: [Buffer Overflow.pdf](buffer\Buffer_Overflow_Setuid.pdf)
-  - The **BUF SIZE** value for Task 3 (L1) is: **190**.
+  - The **BUF SIZE** value for Task 3 (L1) is: **180**.
   - Tasks 5 & 6 are optional and for extra credit. Rest of the tasks are required.
   - Lab Setup files: [Labsetup.zip](buffer\Labsetup.zip)
   - Additional information on the SEED project [site](https://seedsecuritylabs.org/Labs_20.04/Software/Buffer_Overflow_Setuid/).
