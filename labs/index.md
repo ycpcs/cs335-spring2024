@@ -10,7 +10,7 @@ This page links to lab assignments.
 > ----- | ----- | ---- 
 > Lab Setup | [VirtualBox 6.x](setup.html) or [VirtualBox 7.0](setupv7.html) | n/a
 > Shellshock Attack Lab | [Description and Tasks](shellshock.html) | Feb 18
-> Buffer Overflow Attack Lab | [Description and Tasks](buffer_overflow.html) | 
+> Buffer Overflow Attack Lab | [Description and Tasks](buffer_overflow.html) | Feb 29
 
 <!--
 > Buffer Overflow Attack Lab | [Description and Tasks](buffer_overflow.html) | Mar 03
