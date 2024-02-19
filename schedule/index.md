@@ -24,7 +24,7 @@ CIS: <a href="https://ycp.textbookx.com/institutional/index.php?action=browse&ut
 > 05 | Feb 20 | [Network Basics](../slides/Network_Basics.pdf) | CIS: Ch 15 | 
 > 05 | Feb 22 | ARP | | 
 > | | | |
-> 06 | Feb 27 | IP | | 
+> 06 | Feb 27 | IP and ICMP | | 
 > 06 | Feb 29 | _Winter Vacation_ | |
 > | | | |
 > 07 | Mar 05 | TCP | | 
