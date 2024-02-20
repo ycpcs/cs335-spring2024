@@ -14,7 +14,7 @@ This is the website for CS 335, Cybersecurity, at York College. All information 
 * [Labs](labs/index.html)
 * Lab Setup: [VirtualBox 6.x](labs/setup.html) or [VirtualBox 7.0](labs/setupv7.html)
 * [Resources](resources/index.html)
-* [Code Snippets](notes/index.html)
+* [Notes](notes/index.html)
 * <a href="https://cs.ycp.edu/marmoset" target="_blank">Marmoset (submission server)</a>
 
 ## News
