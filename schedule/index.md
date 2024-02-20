@@ -19,7 +19,7 @@ CIS: <a href="https://ycp.textbookx.com/institutional/index.php?action=browse&ut
 > 03 | Feb 08 | [Buffer Overflow Attack](../slides/04_Buffer_Overflow.pdf) | CIS: Ch 4 | 
 > | | | |
 > 04 | Feb 13 | [Buffer Overflow Attack](../slides/04_Buffer_Overflow.pdf) | CIS: Ch 4 | [Buffer Overflow Lab](../labs/buffer_overflow.html) 
-> 04 | Feb 15 | Hijack Code Execution | |
+> 04 | Feb 15 | Hijack Execution Flow | |
 > | | | |
 > 05 | Feb 20 | [Network Basics](../slides/Network_Basics.pdf) | CIS: Ch 15 | 
 > 05 | Feb 22 | ARP | | 
