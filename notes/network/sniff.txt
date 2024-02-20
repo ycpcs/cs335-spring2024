@@ -15,4 +15,4 @@ def print_pkt(pkt):
    print(pkt.summary())
    print("\n")
 
-pkt = sniff(iface="br-cf4c048a4428", filter='icmp',prn=print_pkt)
+pkt = sniff(iface="br-cf4c048a4428", filter='icmp', prn=print_pkt)
