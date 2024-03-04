@@ -6,6 +6,7 @@ title: "Code Snippets"
 
 This page contains links to notes and code snippets.
 
+- [IP](#ip)
 - [ARP](#arp)
 - [Networking](#networking)
 - [Buffer Overflow](#buffer-overflow)
@@ -18,6 +19,16 @@ This page contains links to notes and code snippets.
 - [Networking](#networking-1)
 - [Process commands](#process-commands)
 - [Clone a website](#clone-a-website)
+
+#### IP 
+- Docker Setup: <a href=".\ip\docker-compose.yml" target="_blank">docker-compose.yml</a>
+- Ping: <a href=".\ip\ping.txt" target="_blank">ping.py</a>
+- Traceroute: <a href=".\ip\traceroute.txt" target="_blank">traceroute.py</a>
+- Fragment: <a href=".\ip\fragment.txt" target="_blank">fragment.py</a>
+- ICMP: <a href=".\ip\icmp.txt" target="_blank">icmp.py</a>
+  - ```sudo sysctl net.ipv4.conf.all.accept_redirects=1```
+
+<a href="#">To top</a>
 
 #### ARP
 - Docker Setup: <a href=".\arp\docker-compose.yml" target="_blank">docker-compose.yml</a>

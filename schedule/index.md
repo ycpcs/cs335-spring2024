@@ -22,16 +22,16 @@ CIS: <a href="https://ycp.textbookx.com/institutional/index.php?action=browse&ut
 > 04 | Feb 15 | Hijack Execution Flow | |
 > | | | |
 > 05 | Feb 20 | [Network Basics](../slides/Network_Basics.pdf) | CIS: Ch 15 | 
-> 05 | Feb 22 | ARP Spoofing | | 
+> 05 | Feb 22 | ARP Spoofing | |  [ARP Cache Poisoning Attack](https://seedsecuritylabs.org/Labs_20.04/Networking/ARP_Attack/) <sup>*</sup>
 > | | | |
-> 06 | Feb 27 | IP and ICMP | | 
+> 06 | Feb 27 | _No Class_ | |
 > 06 | Feb 29 | _Winter Vacation_ | |
 > | | | |
-> 07 | Mar 05 | TCP | | 
+> 07 | Mar 05 | IP and ICMP | | [ICMP Redirect Attack](https://seedsecuritylabs.org/Labs_20.04/Networking/ICMP_Redirect/) <sup>*</sup>
 > 07 | Mar 07 | __Quiz 1__ | |
 > | | | |
-> 08 | Mar 12 | DNS | | 
-> 08 | Mar 14 | | |
+> 08 | Mar 12 | TCP | | 
+> 08 | Mar 14 | DNS | |
 > | | | |
 > 09 | Mar 19 | Web Basics | |
 > 09 | Mar 21 | CSRF | | 
