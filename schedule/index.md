@@ -28,7 +28,7 @@ CIS: <a href="https://ycp.textbookx.com/institutional/index.php?action=browse&ut
 > 06 | Feb 29 | _Winter Vacation_ | |
 > | | | |
 > 07 | Mar 05 | IP and ICMP | | [ICMP Redirect Attack](https://seedsecuritylabs.org/Labs_20.04/Networking/ICMP_Redirect/) <sup>*</sup>
-> 07 | Mar 07 | __Quiz 1__ | |
+> 07 | Mar 07 | __Exam 1__ | |
 > | | | |
 > 08 | Mar 12 | TCP | | 
 > 08 | Mar 14 | DNS | |
@@ -51,7 +51,7 @@ CIS: <a href="https://ycp.textbookx.com/institutional/index.php?action=browse&ut
 > 14 | Apr 23 | Firewall | |
 > 14 | Apr 25 | VPN | |
 > | | | |
-> 15 | Apr 30 | __Quiz 2__| |
+> 15 | Apr 30 | __Exam 2__| |
 > 15 | May 02 | Game | |
 > | | | |
 > 16 | May 07 | *__Student Final Project Presentations__* | 
