@@ -26,7 +26,6 @@ This page contains links to notes and code snippets.
 - Docker Setup: <a href=".\ip\docker-compose.yml" target="_blank">docker-compose.yml</a>
 - Ping: <a href=".\ip\ping.txt" target="_blank">ping.py</a>
 - Traceroute: <a href=".\ip\traceroute.txt" target="_blank">traceroute.py</a>
-
   - ```sysctl net.ipv4.conf.all.accept_redirects=1```
 
 <a href="#">To top</a>
