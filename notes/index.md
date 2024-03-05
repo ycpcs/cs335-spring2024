@@ -27,7 +27,7 @@ This page contains links to notes and code snippets.
 - Ping: <a href=".\ip\ping.txt" target="_blank">ping.py</a>
 - Traceroute: <a href=".\ip\traceroute.txt" target="_blank">traceroute.py</a>
 
-  - ```sudo sysctl net.ipv4.conf.all.accept_redirects=1```
+  - ```sysctl net.ipv4.conf.all.accept_redirects=1```
 
 <a href="#">To top</a>
 
@@ -36,6 +36,7 @@ This page contains links to notes and code snippets.
 - arp_request: <a href=".\arp\arp_request.txt" target="_blank">arp_request.py</a>
 - arp poisoning: <a href=".\arp\arp.txt" target="_blank">arp.py</a>
 - arp mitm: <a href=".\arp\mitm.txt" target="_blank">mitm.py</a>
+  - ```sysctl -w net.ipv4.ip_forward=0```
   
 <a href="#">To top</a>
 
