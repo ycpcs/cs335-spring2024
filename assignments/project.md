@@ -16,7 +16,7 @@ Presentations:
 
 | | |
 |---|--|
-your topic here | or here  
+Linux kernel vulnerability like Dirty Pipe or Dirty Cow | The hidden cyber security risks posed by QR codes
 topic 3 | topic 4
 
 ### Introduction
