@@ -19,7 +19,7 @@ CIS: <a href="https://ycp.textbookx.com/institutional/index.php?action=browse&ut
 > 03 | Feb 08 | [Buffer Overflow Attack](../slides/04_Buffer_Overflow.pdf) | CIS: Ch 4 | 
 > | | | |
 > 04 | Feb 13 | [Buffer Overflow Attack](../slides/04_Buffer_Overflow.pdf) | CIS: Ch 4 | [Buffer Overflow Lab](../labs/buffer_overflow.html) 
-> 04 | Feb 15 | Hijack Execution Flow | |
+> 04 | Feb 15 | Hijack Program Execution Flow | |
 > | | | |
 > 05 | Feb 20 | [Network Basics](../slides/Network_Basics.pdf) | CIS: Ch 15 | 
 > 05 | Feb 22 | ARP Spoofing | |  [ARP Cache Poisoning Attack](https://seedsecuritylabs.org/Labs_20.04/Networking/ARP_Attack/) <sup>*</sup>
@@ -30,17 +30,17 @@ CIS: <a href="https://ycp.textbookx.com/institutional/index.php?action=browse&ut
 > 07 | Mar 05 | IP and ICMP | | [ICMP Redirect Attack](https://seedsecuritylabs.org/Labs_20.04/Networking/ICMP_Redirect/) <sup>*</sup>
 > 07 | Mar 07 | __Exam 1__ | |
 > | | | |
-> 08 | Mar 12 | TCP | | 
-> 08 | Mar 14 | DNS | |
+> 08 | Mar 12 | [Attacks on TCP Protocol](../slides/16_TCP_Attack.pdf) | CIS: Ch 16 | 
+> 08 | Mar 14 | TCP Session Hijacking | CIS: Ch 16 | 
 > | | | |
-> 09 | Mar 19 | Web Basics | |
-> 09 | Mar 21 | CSRF | | 
+> 09 | Mar 19 | [DNS Attacks](../slides/18_DNS_Attacks.pdf) | CIS: Ch 18 |
+> 09 | Mar 21 | Web Basics | [CSRF Exploitation and Prevention](papers/csrf.pdf) | |
 > | | | |
-> 10 | Mar 26 | XSS | | 
-> 10 | Mar 28 | | | 
+> 10 | Mar 26 | [Cross-Site Request Forgery](../slides/10_Web_CSRF.pdf) | CIS: Ch 10 | 
+> 10 | Mar 28 | [Cross-Site Scripting](../slides/11_Web_XSS.pdf) | CIS: Ch 11 | 
 > | | | |
-> 11 | Apr 02 | SQL Injection | | 
-> 11 | Apr 04 | | |
+> 11 | Apr 02 | [SQL Injection](../slides/12_Web_SQL_Injection.pdf) |CIS: Ch 12  | 
+> 11 | Apr 04 | [SQL Injection](../slides/12_Web_SQL_Injection.pdf) |CIS: Ch 12  | 
 > | | | |
 > 12 | Apr 09 | Clickjacking | |
 > 12 | Apr 11 | | | 
