@@ -91,6 +91,7 @@ services:
         image: handsonsecurity/seed-ubuntu:large
         container_name: router
         tty: true
+        privileged: true
         cap_add:
                 - ALL
         sysctls:
