@@ -30,8 +30,8 @@ CIS: <a href="https://ycp.textbookx.com/institutional/index.php?action=browse&ut
 > 07 | Mar 05 | IP and ICMP | | [ICMP Redirect Attack](https://seedsecuritylabs.org/Labs_20.04/Networking/ICMP_Redirect/) <sup>*</sup>
 > 07 | Mar 07 | __Exam 1__ | |
 > | | | |
-> 08 | Mar 12 | [Attacks on TCP Protocol](../slides/16_TCP_Attack.pdf) | CIS: Ch 16 | 
-> 08 | Mar 14 | TCP Session Hijacking | CIS: Ch 16 | 
+> 08 | Mar 12 |  Exam Review; Attacks on IP, ICMP & UDP | | 
+> 08 | Mar 14 | [Attacks on TCP Protocol](../slides/16_TCP_Attack.pdf) | CIS: Ch 16 | [TCP Attack Lab](../labs/tcp_attack.html)
 > | | | |
 > 09 | Mar 19 | [DNS Attacks](../slides/18_DNS_Attacks.pdf) | CIS: Ch 18 |
 > 09 | Mar 21 | Web Basics | [CSRF Exploitation and Prevention](papers/csrf.pdf) | |
