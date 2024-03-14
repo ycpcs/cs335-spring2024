@@ -13,7 +13,7 @@ title: Lab - TCP Attack Lab
 
 Additional information on the SEED project [site](https://seedsecuritylabs.org/Labs_20.04/Networking/TCP_Attacks/).
 
-Scapy, tcpdump and netwox references can be found in the [Resources](../resources/index.html) page.
+_Scapy_, _tcpdump_ and _netwox_ references can be found in the [Resources](../resources/index.html) page.
 
 ### Grading
 
