@@ -18,7 +18,7 @@ Presentations:
 |---|---|
 Bluetooth Hacking | Ransomware |
 Linux kernel vulnerability like Dirty Pipe or Dirty Cow | The hidden cyber security risks posed by QR codes
-
+RFID Spoofing |
 
 ### Introduction
 
