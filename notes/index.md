@@ -26,6 +26,7 @@ This page contains links to notes and code snippets.
 - Client: <a href=".\tcp\client.txt" target="_blank">client.py</a>
 - Server: <a href=".\tcp\server.txt" target="_blank">server.py</a>
 - Multi Server: <a href=".\tcp\server2.txt" target="_blank">server2.py</a>
+- Docker Compose: <a href=".\tcp\docker-compose.yml" target="_blank">docker-compose.yml</a>
 - Synflood (python): <a href=".\tcp\synflood.txt" target="_blank">synflood.py</a>
 - Synflood (C) : <a href=".\tcp\synflood.c" target="_blank">synflood.c</a>
 - Reset: <a href=".\tcp\reset.txt" target="_blank">reset.py</a>
@@ -43,7 +44,7 @@ This page contains links to notes and code snippets.
 #### IP 
 - Fragment: <a href=".\ip\fragment.txt" target="_blank">fragment.py</a>
 - ICMP: <a href=".\ip\icmp.txt" target="_blank">icmp.py</a>
-- Docker Setup: <a href=".\ip\docker-compose.yml" target="_blank">docker-compose.yml</a>
+- Docker Compose: <a href=".\ip\docker-compose.yml" target="_blank">docker-compose.yml</a>
 - ICMP Redirect: <a href=".\ip\icmp_redirect.txt" target="_blank">icmp_redirect.py</a>
 - Ping: <a href=".\ip\ping.txt" target="_blank">ping.py</a>
 - Traceroute: <a href=".\ip\traceroute.txt" target="_blank">traceroute.py</a>
@@ -52,7 +53,7 @@ This page contains links to notes and code snippets.
 <a href="#">To top</a>
 
 #### ARP
-- Docker Setup: <a href=".\arp\docker-compose.yml" target="_blank">docker-compose.yml</a>
+- Docker Compose: <a href=".\arp\docker-compose.yml" target="_blank">docker-compose.yml</a>
 - arp_request: <a href=".\arp\arp_request.txt" target="_blank">arp_request.py</a>
 - arp poisoning: <a href=".\arp\arp.txt" target="_blank">arp.py</a>
 - arp mitm: <a href=".\arp\mitm.txt" target="_blank">mitm.py</a>
@@ -63,7 +64,7 @@ This page contains links to notes and code snippets.
 #### Networking 
 - udp_client: <a href=".\network\udp_client.txt" target="_blank">udp_client.py</a>
 - udp_server: <a href=".\network\udp_server.txt" target="_blank">udp_server.py</a>
-- Docker Setup: <a href=".\network\docker-compose.yml" target="_blank">docker-compose.yml</a>
+- Docker Compose: <a href=".\network\docker-compose.yml" target="_blank">docker-compose.yml</a>
 - Scapy: 
   - sniff: <a href=".\network\sniff.txt" target="_blank">sniff.py</a>
   - icmp_spoof: <a href=".\network\icmp_spoof.txt" target="_blank">icmp_spoof.py</a>
