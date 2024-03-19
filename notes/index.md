@@ -28,7 +28,7 @@ This page contains links to notes and code snippets.
 - Multi Server: <a href=".\tcp\server2.txt" target="_blank">server2.py</a>
 - Docker Compose: <a href=".\tcp\docker-compose.yml" target="_blank">docker-compose.yml</a>
 - Synflood (python): <a href=".\tcp\synflood.txt" target="_blank">synflood.py</a>
-- Synflood (C) : <a href=".\tcp\synflood.c" target="_blank">synflood.c</a>
+- Synflood (C): <a href=".\tcp\synflood.c" target="_blank">synflood.c</a>
 - Reset: <a href=".\tcp\reset.txt" target="_blank">reset.py</a>
 - Auto Reset: <a href=".\tcp\auto_reset.txt" target="_blank">auto_reset.py</a>
 - Hijack Session: <a href=".\tcp\hijack.txt" target="_blank">hijack.py</a>
@@ -74,8 +74,8 @@ This page contains links to notes and code snippets.
 <a href="#">To top</a>
 
 #### Buffer Overflow 
-- Buffer Overflow Example : <a href=".\buffer\buffer.c" target="_blank">buffer.c</a>
-- Memory Layout: : <a href=".\buffer\layout.c" target="_blank">layout.c</a>
+- Buffer Overflow Example: <a href=".\buffer\buffer.c" target="_blank">buffer.c</a>
+- Memory Layout: <a href=".\buffer\layout.c" target="_blank">layout.c</a>
 - Launching shell: <a href=".\buffer\launch_shell.c" target="_blank">launch_shell.c</a>
 - ASCII vs binary: <a href=".\buffer\print_zero.c" target="_blank">print_zero.c</a>
 - Print *esp*: <a href=".\buffer\sp.c" target="_blank">sp.c</a>
@@ -84,7 +84,7 @@ This page contains links to notes and code snippets.
 <a href="#">To top</a>
 
 #### Shellshock
-- Set-UID Example : <a href=".\shellshock\vul.c" target="_blank">vul.c</a>
+- Set-UID Example: <a href=".\shellshock\vul.c" target="_blank">vul.c</a>
 
 <a href="#">To top</a>
 
