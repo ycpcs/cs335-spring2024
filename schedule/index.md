@@ -33,10 +33,10 @@ CIS: <a href="https://ycp.textbookx.com/institutional/index.php?action=browse&ut
 > 08 | Mar 12 |  Exam Review; Attacks on IP, ICMP & UDP | | 
 > 08 | Mar 14 | [Attacks on TCP Protocol](../slides/16_TCP_Attack.pdf) | CIS: Ch 16 | [TCP Attack Lab](../labs/tcp_attack.html)
 > | | | |
-> 09 | Mar 19 | [DNS Attacks](../slides/18_DNS_Attacks.pdf) | CIS: Ch 18 |
-> 09 | Mar 21 | Web Basics | [CSRF Exploitation and Prevention](papers/csrf.pdf) | |
+> 09 | Mar 19 | TCP Session Hijacking | CIS: Ch 16 |
+> 09 | Mar 21 | [DNS Attacks](../slides/18_DNS_Attacks.pdf) | CIS: Ch 18 |
 > | | | |
-> 10 | Mar 26 | [Cross-Site Request Forgery](../slides/10_Web_CSRF.pdf) | CIS: Ch 10 | 
+> 10 | Mar 26 | [Cross-Site Request Forgery](../slides/10_Web_CSRF.pdf) | CIS: Ch 10, [CSRF Exploitation and Prevention](papers/csrf.pdf) | 
 > 10 | Mar 28 | [Cross-Site Scripting](../slides/11_Web_XSS.pdf) | CIS: Ch 11 | 
 > | | | |
 > 11 | Apr 02 | [SQL Injection](../slides/12_Web_SQL_Injection.pdf) |CIS: Ch 12  | 
