@@ -37,7 +37,7 @@ This page contains links to notes and code snippets.
 - Potential Traffic Issues 
   - Delay by 100ms: ```tc qdisc add dev eth0 root netem delay 100ms```
   - Delete the tc entry: ```tc qdisc del dev eth0 root netem```
-  - Show all the tc entries: ```tc qdisc show dev eth0```
+  - Show all tc entries: ```tc qdisc show dev eth0```
 
 <a href="#">To top</a>
 
