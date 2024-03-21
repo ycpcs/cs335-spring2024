@@ -31,9 +31,9 @@ This page contains links to notes and code snippets.
   - DOMAIN NAMES - IMPLEMENTATION AND SPECIFICATION: [1035](https://tools.ietf.org/html/rfc1035)
   - Resource Records for the DNS Security Extensions: [4034](https://www.rfc-editor.org/rfc/rfc4034)
 - DNS Cache 
+  - Dump: ```rndc dumpdb -cache```
   - View: ```cat /var/cache/bind/dump.db```
   - Flush: ```rndc flush```
-  - Dump: ```rndc dumpdb -cache```
 - Potential Traffic Issues 
   - Delay by 100ms: ```tc qdisc add dev eth0 root netem delay 100ms```
   - Delete the tc entry: ```tc qdisc del dev eth0 root netem```
