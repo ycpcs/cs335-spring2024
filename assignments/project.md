@@ -19,8 +19,11 @@ Presentations:
 Bluetooth Hacking | Ransomware |
 Linux kernel vulnerability like Dirty Pipe or Dirty Cow | The hidden cyber security risks posed by QR codes
 RFID Spoofing | RFID Spoofing (Flipper Zero)
-Bluetooth (Zero Day) | Computer Worm |
-
+Bluetooth (Zero Day) | Computer Worm 
+Smart Contract Reentrancy | Cookies
+PKI, RSA and Secret Key Encryption | BGP Exploration and Attack 
+Malware Attachments | Camera Vulnerabilities
+Identity Spoofing | 
 
 ### Introduction
 
