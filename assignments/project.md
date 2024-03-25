@@ -23,7 +23,7 @@ Bluetooth (Zero Day) | Computer Worm
 Smart Contract Reentrancy | Cookies
 PKI, RSA and Secret Key Encryption | BGP Exploration and Attack 
 Malware Attachments | Camera Vulnerabilities
-Identity Spoofing | 
+Identity/2FA Spoofing | 
 
 ### Introduction
 

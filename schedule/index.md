@@ -36,7 +36,7 @@ CIS: <a href="https://ycp.textbookx.com/institutional/index.php?action=browse&ut
 > 09 | Mar 19 | TCP Session Hijacking | CIS: Ch 16 |
 > 09 | Mar 21 | [DNS Attacks](../slides/18_DNS_Attacks.pdf) | CIS: Ch 18 |
 > | | | |
-> 10 | Mar 26 | [Cross-Site Request Forgery](../slides/10_Web_CSRF.pdf) | CIS: Ch 10, [CSRF Exploitation and Prevention](papers/csrf.pdf) | 
+> 10 | Mar 26 | [Cross-Site Request Forgery](../slides/10_Web_CSRF.pdf) | CIS: Ch 10, [CSRF Exploitation and Prevention](papers/csrf.pdf) | [CSRF Attack Lab](../labs/csrf.html)
 > 10 | Mar 28 | [Cross-Site Scripting](../slides/11_Web_XSS.pdf) | CIS: Ch 11 | 
 > | | | |
 > 11 | Apr 02 | [SQL Injection](../slides/12_Web_SQL_Injection.pdf) |CIS: Ch 12  | 
