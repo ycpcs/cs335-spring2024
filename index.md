@@ -18,7 +18,11 @@ This is the website for CS 335, Cybersecurity, at York College. All information 
 * <a href="https://cs.ycp.edu/marmoset" target="_blank">Marmoset (submission server)</a>
 
 ## News
+* **May 09** &mdash; Final Project Presentations (as needed)
+* **May 07** &mdash; Final Project Presentations 
 * **Apr 30** &mdash; Optional Labs Due
+* **Apr 28** &mdash; [Cross-Site Scripting Attack](labs/xss_attack.html) Lab Due
+* **Apr 14** &mdash; [Cross-Site Request Forgery Attack](labs/csrf.html) Lab Due  
 * **Apr 02** &mdash; [Local DNS Attacks](labs/dns_attack.html) Lab Due
 * **Mar 24** &mdash; [Attacks on TCP](labs/tcp_attack.html) Lab Due
 * **Mar 21** &mdash; [Final Project](assignments/project.html) Proposal Due
