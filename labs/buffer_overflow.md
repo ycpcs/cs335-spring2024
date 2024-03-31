@@ -49,3 +49,15 @@ Post your report in [Marmoset](https://cs.ycp.edu/marmoset) by the scheduled due
 - 30% - Observations
 - 40% - Explanation
 - *Extra Credit* if you pursue further investigation, beyond what is required by the lab description.
+
+<!--
+
+1	Familiar with Shell 5
+2	Vulnerable program 5
+3	Level 1 on 32 bit	30
+4	Level 2 on 32 bit 30
+7	dash countermeasures 15
+8	ASLR 7.5
+9	Other Protections	7.5
+
+->
