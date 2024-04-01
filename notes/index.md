@@ -6,6 +6,7 @@ title: "Code Snippets"
 
 This page contains links to notes and code snippets.
 
+- [SQL](#sql)
 - [DNS](#dns)
 - [TCP](#tcp)
 - [UDP](#udp)
@@ -22,6 +23,12 @@ This page contains links to notes and code snippets.
 - [Networking](#networking-1)
 - [Process commands](#process-commands)
 - [Clone a website](#clone-a-website)
+
+#### SQL
+- Create Table: <a href=".\sql\create-table.txt" target="_blank">create-table.sql</a>
+- Insert Into: <a href=".\sql\insert-into.txt" target="_blank">insert-into.sql</a>
+  
+<a href="#">To top</a>
 
 #### DNS 
 - Send DNS query: <a href=".\dns\send_dns_query.txt" target="_blank">send_dns_query.py</a>
