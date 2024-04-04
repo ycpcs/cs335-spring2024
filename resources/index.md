@@ -67,6 +67,8 @@ Vulnerability Exploitation
 - [Scapy](https://scapy.net/) is a network packet generation and manipulation library for Python.
   - [Scapy Usage](https://scapy.readthedocs.io/en/latest/usage.html)
 - [sqlmap](http://sqlmap.org/) allows for easy discovery and exploitation of SQL injection vulnerabilities.
+- [sqlninja](https://sqlninja.sourceforge.net/) is a SQL Server injection & takeover tool.
+- [ghauri](https://github.com/r0oth3x49/ghauri) utomates the process of detecting and exploiting SQL injection security flaws.
 - [nessus](https://www.tenable.com/products/nessus/nessus-essentials) is a proprietary vulnerability scanner developed by Tenable Network Security.
 - [Nikto](https://cirt.net/Nikto2) is an Open Source web server scanner.
 - [OpenVAS](http://www.openvas.org/) is an Open Vulnerability Assessment Scanner.
