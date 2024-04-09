@@ -234,11 +234,11 @@ This page contains links to notes and code snippets.
 <a href="#">To top</a>
 
 #### Clone a website 
-```wget --mirror --convert-links --adjust-extension --page-requisites --no-parent https://site-to-copy.com```
+```wget --mirror --convert-links --adjust-extension --page-requisites --no-check-certificate --no-parent https://site-to-copy.com```
   - ```--mirror``` make the download recursive.
   - ```--no-parent``` do not crawl the parent/top directory.
   - ```--convert-links``` makes all the links work properly with the offline copy.
   - ```--page-requisites``` download JS/CSS files.
   - ```--adjust-extension``` add the appropriate extensions (e.g. html, css, js) to files.
-
+  - ```--no-check-certificate``` ignores SSL certificate errors
 <a href="#">To top</a>
