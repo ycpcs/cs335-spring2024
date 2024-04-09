@@ -6,6 +6,7 @@ title: "Code Snippets"
 
 This page contains links to notes and code snippets.
 
+- [Clickjack](#clickjack)
 - [SQL](#sql)
 - [DNS](#dns)
 - [TCP](#tcp)
@@ -23,6 +24,12 @@ This page contains links to notes and code snippets.
 - [Networking](#networking-1)
 - [Process commands](#process-commands)
 - [Clone a website](#clone-a-website)
+
+#### Clickjack 
+- iframe Demo: <a href=".\clickjack\index.txt" target="_blank">index.html</a> 
+- Labsetup: <a href=".\clickjack\Labsetup.zip">Labsetup.zip</a>
+
+<a href="#">To top</a>
 
 #### SQL
 - Create Table: <a href=".\sql\create-table.txt" target="_blank">create-table.sql</a>
