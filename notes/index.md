@@ -44,7 +44,7 @@ This page contains links to notes and code snippets.
 - Add the following to ```~/.bashrc```
   - ```export DOTNET_ROOT=$HOME/.dotnet```
   - ```export PATH=$PATH:$DOTNET_ROOT:$DOTNET_ROOT/tools```
-- JSON serialization framework: <a href="https://github.com/JamesNK/Newtonsoft.Json">Json.NET</a>
+- JSON serialization framework: <a href="https://github.com/JamesNK/Newtonsoft.Json" target="_blank">Json.NET</a>
   - ```dotnet add package Newtonsoft.Json --version 13.0.3```
   
 <a href="#">To top</a>
