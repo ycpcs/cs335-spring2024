@@ -30,10 +30,10 @@ This page contains links to notes and code snippets.
 #### Automating sqlmap 
  - ```wget https://github.com/sqlmapproject/sqlmap/archive/master.zip --no-check-certificate```
  - sqlmap <a href="https://github.com/sqlmapproject/sqlmap/wiki/Usage/" target="_blank">usage</a>
- - SqlmapRequest: <a href=".\sqlmap\SqlmapRequest.cs" target="_blank">SqlmapRequest.txt</a> 
- - Program: <a href=".\sqlmap\Program.cs" target="_blank">Program.txt</a> 
- - SqlmapApi: <a href=".\sqlmap\SqlmapApi.cs" target="_blank">SqlmapApi.txt</a> 
- - SqlmapLog: <a href=".\sqlmap\SqlmapLog.cs" target="_blank">SqlmapLog.txt</a>
+ - SqlmapRequest: <a href=".\sqlmap\SqlmapRequest.txt" target="_blank">SqlmapRequest.cs</a> 
+ - Program: <a href=".\sqlmap\Program.txt" target="_blank">Program.cs</a> 
+ - SqlmapApi: <a href=".\sqlmap\SqlmapApi.txt" target="_blank">SqlmapApi.cs</a> 
+ - SqlmapLog: <a href=".\sqlmap\SqlmapLog.txt" target="_blank">SqlmapLog.cs</a>
   
 <a href="#">To top</a>
 
