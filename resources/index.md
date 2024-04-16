@@ -88,6 +88,7 @@ Password Crackers
   - The official [repo](https://github.com/magnumripper/JohnTheRipper/).
   - The [password hash file](http://contest-2012.korelogic.com/) bundle from the KoreLogic 2012 DEFCON challenge. Decompress with ```bzip2 -dk cmiyc_2012_password_hash_files.tar.bz2```.
   - A large word list containing 1,493,677,782 words can be found at [crackstation](https://crackstation.net/crackstation-wordlist-password-cracking-dictionary.htm).
+  - Bruteforce find [wordlists](https://weakpass.com/wordlist)
 - [RainbowCrack](http://project-rainbowcrack.com/index.htm) crack hashes with rainbow tables.
 - [Ophcrack](https://ophcrack.sourceforge.io/) is a free Windows password cracker based on rainbow tables.
 - [THC-Hydra](https://github.com/vanhauser-thc/thc-hydra) is one of the most widely used _online_ hacking tool.
