@@ -6,6 +6,7 @@ title: "Code Snippets"
 
 This page contains links to notes and code snippets.
 
+- [Password Cracking](#password-cracking)
 - [Automating sqlmap](#automating-sqlmap)
 - [Installing .NET](#installing-net)
 - [Clickjack](#clickjack)
@@ -26,6 +27,25 @@ This page contains links to notes and code snippets.
 - [Networking](#networking-1)
 - [Process commands](#process-commands)
 - [Clone a website](#clone-a-website)
+
+#### Password Cracking
+- John The Ripper
+  - ```git clone https://github.com/magnumripper/JohnTheRipper.git```
+  - ```cd ./JohnTheRipper/src```
+  - ```sudo apt-get install libssl-dev```
+  - ```./configure```
+  - ``` make -s clean && make -sj4```
+  - ``` pip install --user dpkt```
+- Wordlists
+  - [rockyou.txt](pass\rockyou.txt.tar.gz), extract with ```tar -xvf rockyou.txt.tar.gz```
+  - [https://www.openwall.com/wordlists/](https://www.openwall.com/wordlists/)
+  - More under [resources](..\resources\index.html) ... 
+- Crack me
+  - [joke.docx](pass\joke.docx)
+  - [joke.pdf](pass\joke.pdf)
+  - [joke.zip](pass\joke.zip)
+  
+<a href="#">To top</a>
 
 #### Automating sqlmap 
  - ```wget https://github.com/sqlmapproject/sqlmap/archive/master.zip --no-check-certificate```

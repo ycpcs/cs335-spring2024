@@ -43,7 +43,7 @@ CIS: <a href="https://ycp.textbookx.com/institutional/index.php?action=browse&ut
 > 11 | Apr 04 | [SQL Injection](../slides/12_Web_SQL_Injection.pdf) |CIS: Ch 12  | 
 > | | | |
 > 12 | Apr 09 | Clickjacking | |
-> 12 | Apr 11 | | | 
+> 12 | Apr 11 | Automating sqlmap | | 
 > | | | |
 > 13 | Apr 16 | Password Cracking | | 
 > 13 | Apr 18 | Open Source Intelligence | |
