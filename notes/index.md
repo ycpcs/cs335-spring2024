@@ -6,6 +6,7 @@ title: "Code Snippets"
 
 This page contains links to notes and code snippets.
 
+- [Juice Shop](#juice-shop)
 - [Password Cracking](#password-cracking)
 - [Automating sqlmap](#automating-sqlmap)
 - [Installing .NET](#installing-net)
@@ -27,6 +28,16 @@ This page contains links to notes and code snippets.
 - [Networking](#networking-1)
 - [Process commands](#process-commands)
 - [Clone a website](#clone-a-website)
+
+#### Juice Shop
+- [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
+  - Demo at [https://demo.owasp-juice.shop/#/](https://demo.owasp-juice.shop/#/)
+  - [slides](https://juice-shop.github.io/juice-shop/#/)
+- ```docker pull bkimminich/juice-shop```
+- ```docker run --rm -p 3000:3000 bkimminich/juice-shop```
+  - Navigate to http://localhost:3000 
+
+<a href="#">To top</a>
 
 #### Password Cracking
 - John The Ripper

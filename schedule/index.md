@@ -30,7 +30,7 @@ CIS: <a href="https://ycp.textbookx.com/institutional/index.php?action=browse&ut
 > 07 | Mar 05 | IP and ICMP | | [ICMP Redirect Attack](https://seedsecuritylabs.org/Labs_20.04/Networking/ICMP_Redirect/) <sup>*</sup>
 > 07 | Mar 07 | __Exam 1__ | |
 > | | | |
-> 08 | Mar 12 |  Exam Review; Attacks on IP, ICMP & UDP | | 
+> 08 | Mar 12 | Exam Review; Attacks on IP, ICMP & UDP | | 
 > 08 | Mar 14 | [Attacks on TCP Protocol](../slides/16_TCP_Attack.pdf) | CIS: Ch 16 | [TCP Attack Lab](../labs/tcp_attack.html)
 > | | | |
 > 09 | Mar 19 | TCP Session Hijacking | CIS: Ch 16 |
@@ -43,15 +43,15 @@ CIS: <a href="https://ycp.textbookx.com/institutional/index.php?action=browse&ut
 > 11 | Apr 04 | [SQL Injection](../slides/12_Web_SQL_Injection.pdf) |CIS: Ch 12  | 
 > | | | |
 > 12 | Apr 09 | Clickjacking | |
-> 12 | Apr 11 | Automating sqlmap | | 
+> 12 | Apr 11 | Automating sqlmap | <a href="https://sqlmap.org/" target="_blank">sqlmap</a> | 
 > | | | |
 > 13 | Apr 16 | Password Cracking | | 
-> 13 | Apr 18 | Open Source Intelligence | |
+> 13 | Apr 18 | Open Source Intelligence | <a href="https://osintframework.com/" target="_blank">OSINT Framework</a>  |
 > | | | |
-> 14 | Apr 23 | Firewall | |
-> 14 | Apr 25 | VPN | |
+> 14 | Apr 23 | Juice Shop | <a href="https://juice-shop.github.io/juice-shop/#/" target="_blank">Juice Shop</a> |
+> 14 | Apr 25 | _Study Day_ | |
 > | | | |
-> 15 | Apr 30 | __Exam 2__| |
+> 15 | Apr 30 | __Exam 2__ | |
 > 15 | May 02 | Game | |
 > | | | |
 > 16 | May 07 | *__Student Final Project Presentations__* | 
