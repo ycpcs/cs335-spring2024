@@ -72,6 +72,7 @@ Vulnerability Exploitation
 - [nessus](https://www.tenable.com/products/nessus/nessus-essentials) is a proprietary vulnerability scanner developed by Tenable Network Security.
 - [Nikto](https://cirt.net/Nikto2) is an Open Source web server scanner.
 - [OpenVAS](http://www.openvas.org/) is an Open Vulnerability Assessment Scanner.
+- [Amass](https://github.com/owasp-amass/amass) in-depth attack surface mapping and asset discovery.
 - [Gobuster](https://github.com/OJ/gobuster) is a tool used to brute-force URIs including directories and files as well as DNS subdomains.
 - [dsniff](https://www.monkey.org/~dugsong/dsniff/) is a collection of tools for network auditing and penetration testing.
 - [Arachni](https://ecsypno.com/pages/arachni-web-application-security-scanner-framework) is an open source, modular, high-performance Ruby framework with focus on evaluating the security of web applications.
