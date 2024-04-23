@@ -74,6 +74,7 @@ Vulnerability Exploitation
 - [OpenVAS](http://www.openvas.org/) is an Open Vulnerability Assessment Scanner.
 - [Gobuster](https://github.com/OJ/gobuster) is a tool used to brute-force URIs including directories and files as well as DNS subdomains.
 - [dsniff](https://www.monkey.org/~dugsong/dsniff/) is a collection of tools for network auditing and penetration testing.
+- [Arachni](https://ecsypno.com/pages/arachni-web-application-security-scanner-framework) is an open source, modular, high-performance Ruby framework with focus on evaluating the security of web applications.
 
 Network Spoofing
 ------------------------------------
