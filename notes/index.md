@@ -7,6 +7,7 @@ title: "Code Snippets"
 This page contains links to notes and code snippets.
 
 - [Juice Shop CTF](#juice-shop-ctf)
+- [Juice Shop Hints](#juice-shop-hints)
 - [Juice Shop Intro](#juice-shop-intro)
 - [Password Cracking](#password-cracking)
 - [Automating sqlmap](#automating-sqlmap)
@@ -31,13 +32,34 @@ This page contains links to notes and code snippets.
 - [Clone a website](#clone-a-website)
 
 #### Juice Shop CTF
-  - [registration](http://cs335-juice-shop-scoreboard.eastus.cloudapp.azure.com:8000/)
-  - [team 1](http://ycpcs24-cs335-team1.eastus.azurecontainer.io:3000)
-  - [team 2](http://ycpcs24-cs335-team2.eastus.azurecontainer.io:3000)
-  - [team 3](http://ycpcs24-cs335-team3.eastus.azurecontainer.io:3000)
-  - [team 4](http://ycpcs24-cs335-team4.eastus.azurecontainer.io:3000)
-  - Individual Users
-    - Local Environment: ```docker run -d -e "CTF_KEY=M2ZjODVkZTM5Y2JhODVhNDViNmU2MjM0" -p 3000:3000 bkimminich/juice-shop```
+- registration: [http://cs335-juice-shop-scoreboard.eastus.cloudapp.azure.com:8000/](http://cs335-juice-shop-scoreboard.eastus.cloudapp.azure.com:8000/)
+- team 1: [http://ycpcs24-cs335-team1.eastus.azurecontainer.io:3000](http://ycpcs24-cs335-team1.eastus.azurecontainer.io:3000)
+- team 2: [http://ycpcs24-cs335-team2.eastus.azurecontainer.io:3000](http://ycpcs24-cs335-team2.eastus.azurecontainer.io:3000)
+- team 3: [http://ycpcs24-cs335-team3.eastus.azurecontainer.io:3000](http://ycpcs24-cs335-team3.eastus.azurecontainer.io:3000)
+- team 4: [http://ycpcs24-cs335-team4.eastus.azurecontainer.io:3000](http://ycpcs24-cs335-team4.eastus.azurecontainer.io:3000)
+- Individual Users
+  - Local Environment: ```docker run -d -e "CTF_KEY=M2ZjODVkZTM5Y2JhODVhNDViNmU2MjM0" -p 3000:3000 bkimminich/juice-shop```
+
+<a href="#">To top</a>
+
+#### Juice Shop Hints 
+- Security by obscurity 
+  - Review page source (hardcoded secrets or hidden links)
+  - robots.txt (hidden subdomains)
+  - Review .js source files (hidden or hardcoded)
+- Input Validation
+  - CSRF
+  - [XSS Cheat Sheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)      
+  - [SQLi Cheat Sheet](https://portswigger.net/web-security/sql-injection/cheat-sheet)
+  - Enable HTML Elements
+  - API parameters
+- Network Traffic
+  - Any identifiers
+  - Custom Headers
+  - Edit and Reply traffic 
+- Server Exceptions
+
+<a href="#">To top</a>
 
 #### Juice Shop Intro
 - [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
