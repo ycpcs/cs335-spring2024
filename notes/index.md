@@ -31,12 +31,13 @@ This page contains links to notes and code snippets.
 - [Clone a website](#clone-a-website)
 
 #### Juice Shop CTF
-  - [team 1](ycpcs24-cs335-team1.eastus.azurecontainer.io:3000)
-  - [team 2](ycpcs24-cs335-team2.eastus.azurecontainer.io:3000)
-  - [team 3](ycpcs24-cs335-team3.eastus.azurecontainer.io:3000)
-  - [team 4](ycpcs24-cs335-team4.eastus.azurecontainer.io:3000)
   - [registration](http://cs335-juice-shop-scoreboard.eastus.cloudapp.azure.com:8000/)
-  - local environment: ```docker run -d -e "CTF_KEY=M2ZjODVkZTM5Y2JhODVhNDViNmU2MjM0" -p 3000:3000 bkimminich/juice-shop```
+  - [team 1](http://ycpcs24-cs335-team1.eastus.azurecontainer.io:3000)
+  - [team 2](http://ycpcs24-cs335-team2.eastus.azurecontainer.io:3000)
+  - [team 3](http://ycpcs24-cs335-team3.eastus.azurecontainer.io:3000)
+  - [team 4](http://ycpcs24-cs335-team4.eastus.azurecontainer.io:3000)
+  - Individual Users
+    - Local Environment: ```docker run -d -e "CTF_KEY=M2ZjODVkZTM5Y2JhODVhNDViNmU2MjM0" -p 3000:3000 bkimminich/juice-shop```
 
 #### Juice Shop Intro
 - [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
